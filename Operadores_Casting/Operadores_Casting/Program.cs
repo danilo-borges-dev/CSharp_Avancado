@@ -23,9 +23,9 @@ byte b2 = 200;
 byte b3 = (byte)(b1 + b2);
 
 /* Acima nós temos um Cast explícito com perda de dados, porém este é um caso bem específico, porque teremos armazenado na variável b3 um valor "estranho"
- * Sabemnos que um byte pode armazenar um valor de 0 a 255, como temos um valor total da soma de 300, será armazenado o valor 44 na variável b3.
+ * inconsistente Sabemnos que um byte pode armazenar um valor de 0 a 255, como temos um valor total da soma de 300, será armazenado o valor 44 na variável b3.
  * Para evitar este tipo de operação estranha utilizamos o bloco de código checked, assim não teremos está operação, teremos o lançamento de uma 
- * exceção do tipo OverFlow Exception. */
+ * exceção do tipo Overflow Exception (Sytem.OverflowException). */
 
 checked
 {
@@ -33,7 +33,22 @@ checked
 
     byte b_2 = 200;
 
-    byte b_3 = (byte)(b1 + b2);
+    byte b_3 = (byte)(b_1 + b_2);
+}
+
+/* Porém atenção, a checagem é realizada em tempo de execução, então o ideal é utilizar este tipo de checagem apenas em ambientes de desenvolvimento 
+ * e testes, porque está rotina vai pesar a aplicação. */
+
+/* O Visual Studio possui um recurso que permite ativar a checagem de todo o código durante o tempo de execução, porém as vezes é necessário em alguma 
+ * parte do código desativar a checagem e para isto existe o comando unchecked. */
+
+unchecked
+{
+    byte b_4 = 100;
+
+    byte b_5 = 200;
+
+    byte b_6 = (byte)(b_4 + b_5);
 }
 
 

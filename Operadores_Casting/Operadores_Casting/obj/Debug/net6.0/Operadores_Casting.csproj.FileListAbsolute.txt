@@ -1,0 +1,15 @@
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\bin\Debug\net6.0\Operadores_Casting.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\bin\Debug\net6.0\Operadores_Casting.deps.json
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\bin\Debug\net6.0\Operadores_Casting.runtimeconfig.json
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\bin\Debug\net6.0\Operadores_Casting.dll
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\bin\Debug\net6.0\Operadores_Casting.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\obj\Debug\net6.0\Operadores_Casting.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\obj\Debug\net6.0\Operadores_Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\obj\Debug\net6.0\Operadores_Casting.AssemblyInfoInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\obj\Debug\net6.0\Operadores_Casting.AssemblyInfo.cs
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\obj\Debug\net6.0\Operadores_Casting.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\obj\Debug\net6.0\Operadores_Casting.dll
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\obj\Debug\net6.0\refint\Operadores_Casting.dll
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\obj\Debug\net6.0\Operadores_Casting.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\obj\Debug\net6.0\Operadores_Casting.genruntimeconfig.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Operadores_Casting\obj\Debug\net6.0\ref\Operadores_Casting.dll
