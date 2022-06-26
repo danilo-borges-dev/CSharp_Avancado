@@ -10,8 +10,24 @@ namespace Sobrecarga_Operadores
     {
         static void Main(string[] args)
         {
-            var people_01 = new List<string>() { "Paco", "Pedro" };
-            var people_02 = new List<string>() { "Juan", "JOrge" };
+            var people1 = new People<string>() { "Danilo", "Marcos" };
+            var people2 = new People<string>() { "Rosana", "Nayla" };
+            var people3 = people1 + people2;
+
+            people3.ForEach(element => Console.WriteLine(element));
+
+            Console.ReadLine();
         }
-    }    
+
+        public class People<T> : List<T>
+        {
+            public static People<T> operator + (People<T> p1, People<T> p2)
+            {
+                var people = new People<T>();
+                p1.ForEach(element => people.Add(element));
+                p2.ForEach(element => people.Add(element));
+                return people;
+            }
+        }
+    }
 }

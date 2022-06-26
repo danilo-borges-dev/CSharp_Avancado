@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Sobrecarga_Operadores\bin\Debug\Sobrecarga_Operadores.exe.config
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Sobrecarga_Operadores\bin\Debug\Sobrecarga_Operadores.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Sobrecarga_Operadores\bin\Debug\Sobrecarga_Operadores.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Sobrecarga_Operadores\obj\Debug\Sobrecarga_Operadores.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Sobrecarga_Operadores\obj\Debug\Sobrecarga_Operadores.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Sobrecarga_Operadores\obj\Debug\Sobrecarga_Operadores.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Sobrecarga_Operadores\obj\Debug\Sobrecarga_Operadores.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Sobrecarga_Operadores\obj\Debug\Sobrecarga_Operadores.pdb
