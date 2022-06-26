@@ -8,21 +8,22 @@ namespace Lambda_Expressions
     {
         static void Main(string[] args)
         {
-            var lista = new List<int>() { 1, 2, 3, 4, 5, 6, 7, 8 };
-
-            var listaFiltrada = lista.Where(x => x > 4);
-
-            foreach (var item in listaFiltrada)
+            Action algoNoConsole = () =>
             {
-                Console.WriteLine(item);
-            }
+                Console.WriteLine("Lmabida com C#");
+            };
 
-            Console.ReadKey();
-        }
+            algoNoConsole();
 
-        public static bool Filtro(int x)
-        {
-            return x > 4;
+            Func<int> jogarDado = () =>
+            {
+                Random random = new Random();
+                return random.Next(1, 7);
+            };
+
+            Console.WriteLine(jogarDado());
+
+            Console.ReadLine();
         }
     }
 }
