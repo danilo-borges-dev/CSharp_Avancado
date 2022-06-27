@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Entendo_Func\bin\Debug\Entendo_Func.exe.config
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Entendo_Func\bin\Debug\Entendo_Func.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Entendo_Func\bin\Debug\Entendo_Func.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Entendo_Func\obj\Debug\Entendo_Func.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Entendo_Func\obj\Debug\Entendo_Func.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Entendo_Func\obj\Debug\Entendo_Func.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Entendo_Func\obj\Debug\Entendo_Func.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Entendo_Func\obj\Debug\Entendo_Func.pdb

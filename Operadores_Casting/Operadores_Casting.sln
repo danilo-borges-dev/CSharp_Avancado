@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda_Expressions", "Lambd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{E7A4C9B8-89EB-47FB-9F66-0792EC0C4714}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entendo_Func", "Entendo_Func\Entendo_Func.csproj", "{95981DB8-25A9-4E71-8BD0-F73CD86CFDB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E7A4C9B8-89EB-47FB-9F66-0792EC0C4714}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7A4C9B8-89EB-47FB-9F66-0792EC0C4714}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7A4C9B8-89EB-47FB-9F66-0792EC0C4714}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95981DB8-25A9-4E71-8BD0-F73CD86CFDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95981DB8-25A9-4E71-8BD0-F73CD86CFDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95981DB8-25A9-4E71-8BD0-F73CD86CFDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95981DB8-25A9-4E71-8BD0-F73CD86CFDB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
