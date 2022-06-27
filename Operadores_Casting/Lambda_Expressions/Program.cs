@@ -8,22 +8,8 @@ namespace Lambda_Expressions
     {
         static void Main(string[] args)
         {
-            Action algoNoConsole = () =>
-            {
-                Console.WriteLine("Lmabida com C#");
-            };
-
-            algoNoConsole();
-
-            Func<int> jogarDado = () =>
-            {
-                Random random = new Random();
-                return random.Next(1, 7);
-            };
-
-            Console.WriteLine(jogarDado());
-
-            Console.ReadLine();
+            Func<int, int> b = (a) => a * 2;
+            int result = b(3);
         }
     }
 }

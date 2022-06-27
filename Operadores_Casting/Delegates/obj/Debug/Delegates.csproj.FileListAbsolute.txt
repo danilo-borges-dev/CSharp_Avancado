@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Delegates\bin\Debug\Delegates.exe.config
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Delegates\bin\Debug\Delegates.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Delegates\bin\Debug\Delegates.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Delegates\obj\Debug\Delegates.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Delegates\obj\Debug\Delegates.pdb
