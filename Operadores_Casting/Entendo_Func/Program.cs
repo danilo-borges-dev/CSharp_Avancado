@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Entendo_Func
 {
     internal class Program
     {
+        // Func possibilita criar uma variável que vai armazenar a execução de um Método.
         static void Main(string[] args)
         {
             Func<int, int> somar = Somar;
@@ -28,5 +25,7 @@ namespace Entendo_Func
         {
             return x + 2;
         }
+        // A diferença com Delegate é que é possível adicionar apenas UM método.
+        // O Delegate que permite adicionar/apontar para vários Métodos e Funções.
     }
 }
