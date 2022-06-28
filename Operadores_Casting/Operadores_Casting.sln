@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entendo_Func", "Entendo_Func\Entendo_Func.csproj", "{95981DB8-25A9-4E71-8BD0-F73CD86CFDB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcao_De_Ordem_Superior", "Funcao_De_Ordem_Superior\Funcao_De_Ordem_Superior.csproj", "{3B672D65-D8C7-480E-885C-D5D3C8403388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerable_Vs_list", "Enumerable_Vs_list\Enumerable_Vs_list.csproj", "{70FBAF0A-71C2-4E8C-9783-1D0388107960}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{95981DB8-25A9-4E71-8BD0-F73CD86CFDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95981DB8-25A9-4E71-8BD0-F73CD86CFDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95981DB8-25A9-4E71-8BD0-F73CD86CFDB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B672D65-D8C7-480E-885C-D5D3C8403388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B672D65-D8C7-480E-885C-D5D3C8403388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B672D65-D8C7-480E-885C-D5D3C8403388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B672D65-D8C7-480E-885C-D5D3C8403388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FBAF0A-71C2-4E8C-9783-1D0388107960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FBAF0A-71C2-4E8C-9783-1D0388107960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FBAF0A-71C2-4E8C-9783-1D0388107960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FBAF0A-71C2-4E8C-9783-1D0388107960}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

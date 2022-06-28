@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Enumerable_Vs_list\bin\Debug\Enumerable_Vs_list.exe.config
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Enumerable_Vs_list\bin\Debug\Enumerable_Vs_list.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Enumerable_Vs_list\bin\Debug\Enumerable_Vs_list.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Enumerable_Vs_list\obj\Debug\Enumerable_Vs_list.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Enumerable_Vs_list\obj\Debug\Enumerable_Vs_list.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Enumerable_Vs_list\obj\Debug\Enumerable_Vs_list.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Enumerable_Vs_list\obj\Debug\Enumerable_Vs_list.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Enumerable_Vs_list\obj\Debug\Enumerable_Vs_list.pdb
