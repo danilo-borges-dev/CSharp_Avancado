@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace Lambda_Expressions
 {
@@ -6,22 +8,21 @@ namespace Lambda_Expressions
     {
         static void Main(string[] args)
         {
-            Func<int, int, int, int> result = (elementA, elementB, elementC) =>
-            {
-                if (elementA > elementB && elementA > elementC)
-                {
-                    return elementA;
-                }
+            var numbers = new List<int>() { 1, 2, 3, 5, 6, 7 };
+            Action<int> print = (number) => Console.WriteLine(number); // Aqui temos uma instrução Action que vai executar uma empressão Lambda que retorna 
+            // no console o valor de parâmetro de entrada
 
-                if (elementB > elementA && elementB > elementC)
+            Action<List<int>> show = (nun) => // Aqui nós temos uma instrução Action chamado show que recebe como parâmetro de entrada uma Lista.
+            // A instrução show recebe uma Sentença lambda que vai percorrer a Lista recebida por parâmetro e vai exebir os elementos da Lista atrvés 
+            // da instrução Action print
+            {
+                foreach (var item in numbers)
                 {
-                    return elementB;
+                    print(item);
                 }
-                return elementC;
             };
 
-            Console.WriteLine(result(1, 2, 3));
-
+            show(numbers);
             Console.ReadLine();
 
         }
