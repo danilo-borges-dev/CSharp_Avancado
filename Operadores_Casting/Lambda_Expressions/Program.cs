@@ -8,14 +8,11 @@ namespace Lambda_Expressions
     {
         static void Main(string[] args)
         {
-            List<string> namesList = new List<string>() { "Danilo", "Sueli", "João Borges", "Marcos", "Rosana", "Nayla", "Ysabela"};
+            Func<int, int, int> sum = (elementA, elementB) => elementA + elementB;
 
-            Action<string> names = (name) => Console.WriteLine(name);
+            var r = sum(2,2);
 
-            foreach (var item in namesList)
-            {
-                names(item);
-            }
+            Console.WriteLine(r);
 
             Console.ReadLine();
 
