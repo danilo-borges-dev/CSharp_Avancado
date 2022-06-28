@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System;
+﻿using System;
 
 namespace Lambda_Expressions
 {
@@ -8,11 +6,21 @@ namespace Lambda_Expressions
     {
         static void Main(string[] args)
         {
-            Func<int, int, int> sum = (elementA, elementB) => elementA + elementB;
+            Func<int, int, int, int> result = (elementA, elementB, elementC) =>
+            {
+                if (elementA > elementB && elementA > elementC)
+                {
+                    return elementA;
+                }
 
-            var r = sum(2,2);
+                if (elementB > elementA && elementB > elementC)
+                {
+                    return elementB;
+                }
+                return elementC;
+            };
 
-            Console.WriteLine(r);
+            Console.WriteLine(result(1, 2, 3));
 
             Console.ReadLine();
 
