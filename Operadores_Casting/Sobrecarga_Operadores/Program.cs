@@ -21,6 +21,7 @@ namespace Sobrecarga_Operadores
         public class People<T> : List<T>  // Criamos a classe People que herda da classe List
         {
             public static People<T> operator + (People<T> p1, People<T> p2)  // Aqui temos um método que vai retornar uma lista do "tipo" People. Este método possui dois parâmetros de entrada (duas listas)
+                // Este método possui a declaração "operator" mais a declaração do operador que vai sofrer a sobrecarga
             {
                 var people = new People<T>();  // Criamos uma nova variável para armazenar a junção das duas listas
                 p1.ForEach((element) => people.Add(element));  // O ForEach vai percorrer a primeira lista passada por parâmetro e armazenar na variável people
