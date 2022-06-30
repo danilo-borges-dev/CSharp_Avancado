@@ -19,7 +19,7 @@
             _totalCurrentAccountBank++;
         }
 
-        public void SetHolderName(Client name) => _holder = name;
+        public void SetHolderName(Client name) => _holder = name; // Lambda Expression
 
         public void SetAgencyNumber(int number) => _agency = number;
 
@@ -35,6 +35,18 @@
         public double GetBalance() => _balance;
 
         public int GetTotalCurrenteAccountBank() => _totalCurrentAccountBank;
+        public override string ToString()
+        {
+            for (int i = 0; i <= _totalCurrentAccountBank; i++)
+            {
 
+            }
+
+            string infos = "\n\nName: " + _holder.GetClientName() + "\n" +
+                "Agency: " + _agency + "\n" +
+                "Number Account: " + _numberAccount + "\n" +
+                "Balance: " + _balance + "\n";
+            return infos.ToString();
+        }
     }
 }
