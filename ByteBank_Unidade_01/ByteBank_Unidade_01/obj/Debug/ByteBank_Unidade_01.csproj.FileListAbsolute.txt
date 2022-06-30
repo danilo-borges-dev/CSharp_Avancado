@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Avancado\ByteBank_Unidade_01\ByteBank_Unidade_01\bin\Debug\ByteBank_Unidade_01.exe.config
+C:\Workspace\CSharp_Avancado\ByteBank_Unidade_01\ByteBank_Unidade_01\bin\Debug\ByteBank_Unidade_01.exe
+C:\Workspace\CSharp_Avancado\ByteBank_Unidade_01\ByteBank_Unidade_01\bin\Debug\ByteBank_Unidade_01.pdb
+C:\Workspace\CSharp_Avancado\ByteBank_Unidade_01\ByteBank_Unidade_01\obj\Debug\ByteBank_Unidade_01.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\ByteBank_Unidade_01\ByteBank_Unidade_01\obj\Debug\ByteBank_Unidade_01.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Avancado\ByteBank_Unidade_01\ByteBank_Unidade_01\obj\Debug\ByteBank_Unidade_01.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Avancado\ByteBank_Unidade_01\ByteBank_Unidade_01\obj\Debug\ByteBank_Unidade_01.exe
+C:\Workspace\CSharp_Avancado\ByteBank_Unidade_01\ByteBank_Unidade_01\obj\Debug\ByteBank_Unidade_01.pdb
