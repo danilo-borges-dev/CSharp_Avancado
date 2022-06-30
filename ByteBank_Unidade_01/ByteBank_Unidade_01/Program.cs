@@ -22,7 +22,7 @@ namespace ByteBank_Unidade_01
 
             Console.WriteLine(accountDoDanilo.ToString());
 
-            var valorVar = 1200;  // Aqui temos uma variável de Tipo Valor, ou seja, ela é responsável e esta armazenando um valor 1200
+            var valorVar = 1_200;  // Aqui temos uma variável de Tipo Valor, ou seja, ela é responsável e esta armazenando um valor 1200
             var referenceVar = clientDanilo;  // Aqui temos uma variável de Tipo Referência, ou seja, é responsável por aramazenar a referência de um objeto
             object referenceObj = clientDanilo;  // Aqui temos outra variável que armazena uma referência, porém agora está Tipada
 
@@ -32,10 +32,26 @@ namespace ByteBank_Unidade_01
             }
             else
             {
-                Console.WriteLine("Não, as variáveis possuiem valor ou referencia diferentes!");
+                Console.WriteLine("Não, as variáveis possuiem valor ou referencia diferentes!\n");
             }
 
+            Client newClient;  // Aqui temos uma variável do Tipo Client que será utilizada para armazenar a referência do objeto instanciado clientGabriela
+            newClient = clientGabriela;
 
+            Console.WriteLine(newClient.GetClientName());
+
+            Console.WriteLine();
+
+            var ternariOperator = ( valorVar == 1200) ? true : false;  // Aqui temos a declaração de um operador ternário, responsável por verificar
+                                                                       // se o valor da vairável valorVar é igual a 1200 e aramazenar na variável ternarioOperator true ou false
+
+            Console.WriteLine(ternariOperator);
+
+            Console.WriteLine();
+
+            accountDaGabriela = accountDoDanilo;
+
+            Console.WriteLine(accountDaGabriela.GetNumberAccount());
 
             Console.ReadKey();
         }        
