@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 
 namespace ByteBank_Unidade_01
 {
@@ -22,6 +21,21 @@ namespace ByteBank_Unidade_01
             ClientDataBase.AddNewClientEnDataBase(clientDanilo, accountDoDanilo);
 
             Console.WriteLine(accountDoDanilo.ToString());
+
+            var valorVar = 1200;  // Aqui temos uma variável de Tipo Valor, ou seja, ela é responsável e esta armazenando um valor 1200
+            var referenceVar = clientDanilo;  // Aqui temos uma variável de Tipo Referência, ou seja, é responsável por aramazenar a referência de um objeto
+            object referenceObj = clientDanilo;  // Aqui temos outra variável que armazena uma referência, porém agora está Tipada
+
+            if (referenceVar == referenceObj)
+            {
+                Console.WriteLine("Sim, referenceVar está armazenando a mesma referencia de referenceObj.");
+            }
+            else
+            {
+                Console.WriteLine("Não, as variáveis possuiem valor ou referencia diferentes!");
+            }
+
+
 
             Console.ReadKey();
         }        
