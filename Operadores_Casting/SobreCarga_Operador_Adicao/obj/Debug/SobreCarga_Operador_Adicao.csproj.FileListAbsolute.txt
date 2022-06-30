@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_Operador_Adicao\bin\Debug\SobreCarga_Operador_Adicao.exe.config
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_Operador_Adicao\bin\Debug\SobreCarga_Operador_Adicao.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_Operador_Adicao\bin\Debug\SobreCarga_Operador_Adicao.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_Operador_Adicao\obj\Debug\SobreCarga_Operador_Adicao.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_Operador_Adicao\obj\Debug\SobreCarga_Operador_Adicao.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_Operador_Adicao\obj\Debug\SobreCarga_Operador_Adicao.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_Operador_Adicao\obj\Debug\SobreCarga_Operador_Adicao.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_Operador_Adicao\obj\Debug\SobreCarga_Operador_Adicao.pdb

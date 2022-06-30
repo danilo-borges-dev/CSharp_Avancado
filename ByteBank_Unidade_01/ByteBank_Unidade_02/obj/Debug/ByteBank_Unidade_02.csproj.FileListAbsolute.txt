@@ -1,0 +1,3 @@
+C:\Workspace\CSharp_Avancado\ByteBank_Unidade_01\ByteBank_Unidade_02\obj\Debug\ByteBank_Unidade_02.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\ByteBank_Unidade_01\ByteBank_Unidade_02\obj\Debug\ByteBank_Unidade_02.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Avancado\ByteBank_Unidade_01\ByteBank_Unidade_02\obj\Debug\ByteBank_Unidade_02.csproj.CoreCompileInputs.cache
