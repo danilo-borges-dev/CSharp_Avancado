@@ -6,9 +6,11 @@ namespace ByteBank_Unidade_02
     {
         public static bool WidthDraw(CurrentAccount accoubtReferente, double value)
         {
-            if (value <= accoubtReferente.GetTotalCurrenteAccountBank() && value > 0)
+            if (value <= accoubtReferente.GetBalance() && value > 0)
             {
-                accoubtReferente.SetBalance(value);
+                double valueInAccountClient = accoubtReferente.GetBalance();
+                valueInAccountClient -= value;
+                accoubtReferente.SetBalance(valueInAccountClient);
                 Console.WriteLine("Operação realizada com Sucesso!");
                 Console.WriteLine("Valor atualizado: R$" + accoubtReferente.GetBalance());
                 return true;

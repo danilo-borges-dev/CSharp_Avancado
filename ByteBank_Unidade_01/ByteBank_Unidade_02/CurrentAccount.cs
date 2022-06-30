@@ -8,7 +8,7 @@ namespace ByteBank_Unidade_02
         private int _agency { get; set; }
         private int _numberAccount { get; set; }
         private double _balance { get; set; }
-        private static int _totalCurrentAccountBank = 0;
+        public static int _totalCurrentAccountBank { get; private set; } = 0;  // Aqui nos termos uma property mais simples e moderna
 
         public CurrentAccount() { }
 
@@ -30,6 +30,7 @@ namespace ByteBank_Unidade_02
         public int GetAgencyNumber() => _agency;
         public int GetNumberAccount() => _numberAccount;
         public double GetBalance() => _balance;
+
 
         public int GetTotalCurrenteAccountBank() => _totalCurrentAccountBank;
 
