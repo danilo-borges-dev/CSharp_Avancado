@@ -6,7 +6,7 @@ namespace ByteBank_Unidade_03.Funcionarios
     {
         protected string _name;
         protected string _cpf;
-        protected double _wage;
+        protected double _wage;  // Salário
         protected double _bonus = 0.1;
         protected static int _totalEmployees;
         

@@ -43,9 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employees\AccountManeger.cs" />
+    <Compile Include="Employees\Assistant.cs" />
     <Compile Include="Employees\Designer.cs" />
     <Compile Include="Employees\Director.cs" />
     <Compile Include="Employees\Employee.cs" />
+    <Compile Include="Employees\IncreaseSalary.cs" />
     <Compile Include="GetBonusEmployees.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

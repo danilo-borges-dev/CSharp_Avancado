@@ -16,21 +16,9 @@ namespace ByteBank_Unidade_03
 
             Console.WriteLine(manegerBonus.GetBonus(funcCarlos));
 
-            Console.WriteLine();
+            Console.WriteLine(IncreaseSalary.IncreaseSalaryEmployee(funcCarlos, 0.15));
 
-            Director daniloDiretor = new Director("Danilo Diretor", "111.111.111-11", 5_000);
-            Console.WriteLine($"Valor de Bonificação R${daniloDiretor.Bonus * daniloDiretor.TotalWage}");
-
-            Console.WriteLine(manegerBonus.GetBonus(daniloDiretor));
-
-            Console.WriteLine($"\nTotal de Bonificações dos funcionários R${manegerBonus.TotalBonusEmplyyes}");
-
-            Console.WriteLine();
-
-            Console.WriteLine($"Total de Funcionários na Empresa: {Employee.TotalEmployees}");
-
-            Console.ReadLine();
-
+            Console.ReadKey();
         }
     }
 }

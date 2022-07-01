@@ -6,7 +6,7 @@ namespace ByteBank_Unidade_03.Employees
     {
         public Director(string name, string cpf, double wage) : base(name, cpf, wage) 
         {
-            _bonus = 1.0;
+            _bonus = 0.50;
         }
         public override string ToString()
         {
