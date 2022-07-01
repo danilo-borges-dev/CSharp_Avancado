@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Funcao_De_Ordem_Superior\bin\Debug\Funcao_De_Ordem_Superior.exe.config
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Funcao_De_Ordem_Superior\bin\Debug\Funcao_De_Ordem_Superior.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Funcao_De_Ordem_Superior\bin\Debug\Funcao_De_Ordem_Superior.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Funcao_De_Ordem_Superior\obj\Debug\Funcao_De_Ordem_Superior.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Funcao_De_Ordem_Superior\obj\Debug\Funcao_De_Ordem_Superior.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Funcao_De_Ordem_Superior\obj\Debug\Funcao_De_Ordem_Superior.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Funcao_De_Ordem_Superior\obj\Debug\Funcao_De_Ordem_Superior.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Funcao_De_Ordem_Superior\obj\Debug\Funcao_De_Ordem_Superior.pdb

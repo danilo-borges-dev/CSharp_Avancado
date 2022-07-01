@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Indexadores\bin\Debug\Indexadores.exe.config
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Indexadores\bin\Debug\Indexadores.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Indexadores\bin\Debug\Indexadores.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Indexadores\obj\Debug\Indexadores.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Indexadores\obj\Debug\Indexadores.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Indexadores\obj\Debug\Indexadores.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Indexadores\obj\Debug\Indexadores.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Indexadores\obj\Debug\Indexadores.pdb

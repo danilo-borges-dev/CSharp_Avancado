@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SobreCarga_De_Operador_Maior_Que_E_Menor_Que
 {
@@ -10,12 +6,7 @@ namespace SobreCarga_De_Operador_Maior_Que_E_Menor_Que
     {
         static void Main(string[] args)
         {
-            Sobrecarga s1 = new Sobrecarga(3, 5);
-            Sobrecarga s2 = new Sobrecarga(4, 6);
-            var resultado = s1 > s2;
-
-            Console.WriteLine(resultado);
-
+            
             Console.ReadLine();
         }
 
