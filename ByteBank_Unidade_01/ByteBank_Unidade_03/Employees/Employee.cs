@@ -2,7 +2,7 @@
 
 namespace ByteBank_Unidade_03.Funcionarios
 {
-    internal class Employee
+    internal abstract class Employee
     {
         protected string _name;
         protected string _cpf;

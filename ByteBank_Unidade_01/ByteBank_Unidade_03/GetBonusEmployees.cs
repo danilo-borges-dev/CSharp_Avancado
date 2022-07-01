@@ -6,7 +6,7 @@ namespace ByteBank_Unidade_03
     internal class GetBonusEmployees
     {
         private static double _totalBonusEmployees;
-        public double TotalBonusEmplyyes { get { return _totalBonusEmployees; } }
+        public double TotalBonusEmplyees { get { return _totalBonusEmployees; } }
 
         public virtual string GetBonus(Employee emplyee)
         {
