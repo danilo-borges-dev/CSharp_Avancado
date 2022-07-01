@@ -25,7 +25,12 @@ namespace ByteBank_Unidade_03
 
             Console.WriteLine($"\nTotal de Bonificações dos funcionários R${manegerBonus.TotalBonusEmplyyes}");
 
+            Console.WriteLine();
+
+            Console.WriteLine($"Total de Funcionários na Empresa: {Employee.TotalEmployees}");
+
             Console.ReadLine();
+
         }
     }
 }

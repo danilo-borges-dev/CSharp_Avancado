@@ -11,7 +11,7 @@ namespace ByteBank_Unidade_03.Funcionarios
         protected static int _totalEmployees;
         
 
-        public int TotalEmployees { get { return _totalEmployees;  }  }
+        public static int TotalEmployees { get { return _totalEmployees;  }  }
         public double TotalWage { get { return _wage; } }
         public double Bonus { get { return _bonus; } }
 
@@ -29,7 +29,7 @@ namespace ByteBank_Unidade_03.Funcionarios
             _totalEmployees++;
         }
 
-        public void SetWage(double value) => _wage += value;
+        public void SetWage(double value) => _wage = value;
         public double GetWage() => _wage;
 
         public override string ToString()
