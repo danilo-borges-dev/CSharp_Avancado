@@ -10,7 +10,7 @@ namespace ByteBank_Unidade_03
 
         public virtual string GetBonus(Employee emplyee)
         {
-            var bonusValue = emplyee.TotalWage * 0.1;
+            var bonusValue = emplyee.TotalWage * emplyee.Bonus;
             _totalBonusEmployees += bonusValue;
             var bonusemployee = emplyee.TotalWage + bonusValue;
             emplyee.SetWage(bonusemployee);

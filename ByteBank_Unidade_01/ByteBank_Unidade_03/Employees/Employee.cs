@@ -4,14 +4,16 @@ namespace ByteBank_Unidade_03.Funcionarios
 {
     internal class Employee
     {
-        private string _name;
-        private string _cpf;
-        private double _wage;
-        private static int _totalEmployees;
+        protected string _name;
+        protected string _cpf;
+        protected double _wage;
+        protected double _bonus = 0.1;
+        protected static int _totalEmployees;
         
 
         public int TotalEmployees { get { return _totalEmployees;  }  }
         public double TotalWage { get { return _wage; } }
+        public double Bonus { get { return _bonus; } }
 
         public Employee(string name, string cpf, double wage)
         {

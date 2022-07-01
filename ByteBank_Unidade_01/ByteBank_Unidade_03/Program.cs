@@ -1,9 +1,6 @@
-﻿using ByteBank_Unidade_03.Funcionarios;
+﻿using ByteBank_Unidade_03.Employees;
+using ByteBank_Unidade_03.Funcionarios;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ByteBank_Unidade_03
 {
@@ -15,9 +12,18 @@ namespace ByteBank_Unidade_03
 
             Console.WriteLine(funcCarlos.ToString());
 
-            GetBonusEmployees bonus = new GetBonusEmployees();
+            GetBonusEmployees manegerBonus = new GetBonusEmployees();
 
-            Console.WriteLine(bonus.GetBonus(funcCarlos));
+            Console.WriteLine(manegerBonus.GetBonus(funcCarlos));
+
+            Console.WriteLine();
+
+            Director daniloDiretor = new Director("Danilo Diretor", "111.111.111-11", 5_000);
+            Console.WriteLine($"Valor de Bonificação R${daniloDiretor.Bonus * daniloDiretor.TotalWage}");
+
+            Console.WriteLine(manegerBonus.GetBonus(daniloDiretor));
+
+            Console.WriteLine($"\nTotal de Bonificações dos funcionários R${manegerBonus.TotalBonusEmplyyes}");
 
             Console.ReadLine();
         }
