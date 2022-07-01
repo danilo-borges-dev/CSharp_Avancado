@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobreCarga_Operador_Adicao"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobreCarga_De_Operador_Multiplicacao", "SobreCarga_De_Operador_Multiplicacao\SobreCarga_De_Operador_Multiplicacao.csproj", "{0A341281-3607-4BDF-A978-E926F1454E32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobreCarga_De_Operador_Maior_Que_E_Menor_Que", "SobreCarga_De_Operador_Maior_Que_E_Menor_Que\SobreCarga_De_Operador_Maior_Que_E_Menor_Que.csproj", "{B8C5805E-66B3-4A29-8363-814141FF52C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{0A341281-3607-4BDF-A978-E926F1454E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A341281-3607-4BDF-A978-E926F1454E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A341281-3607-4BDF-A978-E926F1454E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C5805E-66B3-4A29-8363-814141FF52C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C5805E-66B3-4A29-8363-814141FF52C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C5805E-66B3-4A29-8363-814141FF52C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C5805E-66B3-4A29-8363-814141FF52C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
