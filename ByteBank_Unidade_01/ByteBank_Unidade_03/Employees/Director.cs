@@ -16,6 +16,9 @@ namespace ByteBank_Unidade_03.Employees
             return message.ToString();
         }
 
-        
+        public override int Teste(int a, int b)
+        {
+            return b;
+        }
     }
 }

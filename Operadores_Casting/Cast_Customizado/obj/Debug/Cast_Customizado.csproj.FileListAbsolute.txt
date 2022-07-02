@@ -1,0 +1,8 @@
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Cast_Customizado\bin\Debug\Cast_Customizado.exe.config
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Cast_Customizado\bin\Debug\Cast_Customizado.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Cast_Customizado\bin\Debug\Cast_Customizado.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Cast_Customizado\obj\Debug\Cast_Customizado.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Cast_Customizado\obj\Debug\Cast_Customizado.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Cast_Customizado\obj\Debug\Cast_Customizado.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Cast_Customizado\obj\Debug\Cast_Customizado.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Cast_Customizado\obj\Debug\Cast_Customizado.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank_Unidade_03.Employees
 {
-    sealed class Sealed_Class
+    public class Sealed_Class
     {
         public int MyProperty { get; set; }
         public int MyProperty2 { get; set; }

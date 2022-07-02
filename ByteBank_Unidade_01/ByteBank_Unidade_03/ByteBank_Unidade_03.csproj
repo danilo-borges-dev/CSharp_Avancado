@@ -50,6 +50,7 @@
     <Compile Include="Employees\Employee.cs" />
     <Compile Include="Employees\IncreaseSalary.cs" />
     <Compile Include="Employees\IUserLogin.cs" />
+    <Compile Include="Employees\Sealed_Class.cs" />
     <Compile Include="GetBonusEmployees.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

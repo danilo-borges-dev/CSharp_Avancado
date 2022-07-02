@@ -39,5 +39,10 @@ namespace ByteBank_Unidade_03.Funcionarios
                              $"Salário R${this._wage}\n";            
             return message.ToString();
         }
+
+        public virtual int Teste(int a, int b)
+        {
+            return a + b;
+        }
     }
 }

@@ -10,7 +10,28 @@ namespace Cast_Customizado
     {
         static void Main(string[] args)
         {
+            LetraAlfabeto l = new LetraAlfabeto('C');
 
+            char letra = l;
+
+            Console.WriteLine(l);
+
+            Console.ReadLine();
+        }
+
+        public class LetraAlfabeto
+        {
+            char caractere;
+
+            public LetraAlfabeto(char letra)
+            {
+                caractere = char.ToUpper(letra);
+            }
+
+            public static implicit operator char(LetraAlfabeto letra)
+            {
+                return letra.caractere;
+            }
         }
     }
 }
