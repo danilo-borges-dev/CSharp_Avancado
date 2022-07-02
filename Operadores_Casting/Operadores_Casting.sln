@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobreCarga_De_Operador_Maio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexadores", "Indexadores\Indexadores.csproj", "{8CDC6DA7-10F0-40C7-8A72-B8D8EA1FAAD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cast_Customizado", "Cast_Customizado\Cast_Customizado.csproj", "{FAB0D744-EB87-4142-9362-E0293AE95589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{8CDC6DA7-10F0-40C7-8A72-B8D8EA1FAAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CDC6DA7-10F0-40C7-8A72-B8D8EA1FAAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CDC6DA7-10F0-40C7-8A72-B8D8EA1FAAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB0D744-EB87-4142-9362-E0293AE95589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB0D744-EB87-4142-9362-E0293AE95589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB0D744-EB87-4142-9362-E0293AE95589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB0D744-EB87-4142-9362-E0293AE95589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

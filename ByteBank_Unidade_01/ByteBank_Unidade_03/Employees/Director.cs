@@ -15,5 +15,7 @@ namespace ByteBank_Unidade_03.Employees
                              $"Salário R${this._wage}\n";
             return message.ToString();
         }
+
+        
     }
 }
