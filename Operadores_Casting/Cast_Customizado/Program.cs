@@ -10,27 +10,27 @@ namespace Cast_Customizado
     {
         static void Main(string[] args)
         {
-            LetraAlfabeto l = new LetraAlfabeto('C');
+            Nome n = new Nome("Danilo");
 
-            char letra = l;
+            string nome = n;
 
-            Console.WriteLine(l);
+            Console.WriteLine(nome);
 
             Console.ReadLine();
         }
 
-        public class LetraAlfabeto
+        public class Nome
         {
-            char caractere;
+            private string _nome;
 
-            public LetraAlfabeto(char letra)
+            public Nome(string nome)
             {
-                caractere = char.ToUpper(letra);
+                _nome = nome;
             }
 
-            public static implicit operator char(LetraAlfabeto letra)
+            public static implicit operator string(Nome n)
             {
-                return letra.caractere;
+                return n._nome;
             }
         }
     }
