@@ -1,36 +1,33 @@
 ﻿using ByteBank_Unidade_03.Employees;
-using ByteBank_Unidade_03.Funcionarios;
+using ByteBank_Unidade_03.InternalSystem;
 using System;
 
 namespace ByteBank_Unidade_03
 {
     internal class Program
     {
-        static void Main(string[] args)  // Método Estático, portanto pode receber apenas métodos também estáticos
+        static void Main(string[] args)
         {
-            Director funcCarlos = new Director("Carlos", "111.111.111-11", 5_000);
+            T t = null;
 
-            Console.WriteLine(funcCarlos.ToString());
-
-            GetBonusEmployees manegerBonus = new GetBonusEmployees();
-
-            Console.WriteLine(manegerBonus.GetBonus(funcCarlos));
-
-            Console.WriteLine(IncreaseSalary.IncreaseSalaryEmployee(funcCarlos, 0.15));
-
-            GetBonusEmployees bonusManeger = new GetBonusEmployees();
-            Console.WriteLine($"\nTotal de Bonificações para os Funcionários R${bonusManeger.TotalBonusEmplyees}");
-
-
-            Program pg = new Program();
-            pg.Teste();
-            
-            Console.ReadKey();
+            try
+            {
+                Console.WriteLine(t.saldo);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
 
         public void Teste()
         {
-            Console.WriteLine("Dentro do método não estátito!");
+
+        }
+
+        public class T
+        {
+            public int saldo;
         }
     }
 }

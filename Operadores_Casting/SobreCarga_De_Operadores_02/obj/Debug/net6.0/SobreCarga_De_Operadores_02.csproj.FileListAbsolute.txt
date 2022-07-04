@@ -1,0 +1,15 @@
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\bin\Debug\net6.0\SobreCarga_De_Operadores_02.exe
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\bin\Debug\net6.0\SobreCarga_De_Operadores_02.deps.json
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\bin\Debug\net6.0\SobreCarga_De_Operadores_02.runtimeconfig.json
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\bin\Debug\net6.0\SobreCarga_De_Operadores_02.dll
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\bin\Debug\net6.0\SobreCarga_De_Operadores_02.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\obj\Debug\net6.0\SobreCarga_De_Operadores_02.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\obj\Debug\net6.0\SobreCarga_De_Operadores_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\obj\Debug\net6.0\SobreCarga_De_Operadores_02.AssemblyInfoInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\obj\Debug\net6.0\SobreCarga_De_Operadores_02.AssemblyInfo.cs
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\obj\Debug\net6.0\SobreCarga_De_Operadores_02.csproj.CoreCompileInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\obj\Debug\net6.0\SobreCarga_De_Operadores_02.dll
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\obj\Debug\net6.0\refint\SobreCarga_De_Operadores_02.dll
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\obj\Debug\net6.0\SobreCarga_De_Operadores_02.pdb
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\obj\Debug\net6.0\SobreCarga_De_Operadores_02.genruntimeconfig.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\SobreCarga_De_Operadores_02\obj\Debug\net6.0\ref\SobreCarga_De_Operadores_02.dll

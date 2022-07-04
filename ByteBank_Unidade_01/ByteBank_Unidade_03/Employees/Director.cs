@@ -4,9 +4,15 @@ namespace ByteBank_Unidade_03.Employees
 {
     internal class Director : Employee
     {
-        public Director(string name, string cpf, double wage) : base(name, cpf, wage) 
+        private string _passwordLogin;
+        public string PasswordLogin
+        {
+            get { return _passwordLogin; }
+        }
+        public Director(string name, string cpf, double wage, string password) : base(name, cpf, wage) 
         {
             _bonus = 0.50;
+            _passwordLogin = password;
         }
         public override string ToString()
         {
@@ -19,6 +25,6 @@ namespace ByteBank_Unidade_03.Employees
         public override int Teste(int a, int b)
         {
             return b;
-        }
+        }   
     }
 }
