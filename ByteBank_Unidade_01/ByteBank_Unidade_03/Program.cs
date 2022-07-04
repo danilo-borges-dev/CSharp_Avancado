@@ -8,26 +8,26 @@ namespace ByteBank_Unidade_03
     {
         static void Main(string[] args)
         {
-            T t = null;
-
+            int denominator = 0;
+            int numerator = 2;
             try
             {
-                Console.WriteLine(t.saldo);
+                try
+                {
+                    int result = numerator / denominator;
+                }
+                catch (DivideByZeroException ex)
+                {
+                    throw new DivideByZeroException(ex.Message);
+                }
+
             }
-            catch (Exception ex)
+            catch (DivideByZeroException ex)
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.ToString());
             }
+            Console.ReadLine();
         }
 
-        public void Teste()
-        {
-
-        }
-
-        public class T
-        {
-            public int saldo;
-        }
     }
 }

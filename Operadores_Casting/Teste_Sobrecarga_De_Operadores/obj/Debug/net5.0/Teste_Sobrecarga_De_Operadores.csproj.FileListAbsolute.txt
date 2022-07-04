@@ -1,0 +1,5 @@
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Teste_Sobrecarga_De_Operadores\obj\Debug\net5.0\Teste_Sobrecarga_De_Operadores.csproj.AssemblyReference.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Teste_Sobrecarga_De_Operadores\obj\Debug\net5.0\Teste_Sobrecarga_De_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Teste_Sobrecarga_De_Operadores\obj\Debug\net5.0\Teste_Sobrecarga_De_Operadores.AssemblyInfoInputs.cache
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Teste_Sobrecarga_De_Operadores\obj\Debug\net5.0\Teste_Sobrecarga_De_Operadores.AssemblyInfo.cs
+C:\Workspace\CSharp_Avancado\Operadores_Casting\Teste_Sobrecarga_De_Operadores\obj\Debug\net5.0\Teste_Sobrecarga_De_Operadores.csproj.CoreCompileInputs.cache

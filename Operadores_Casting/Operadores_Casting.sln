@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cast_Customizado", "Cast_Cu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobreCarga_De_Operadores_02", "SobreCarga_De_Operadores_02\SobreCarga_De_Operadores_02.csproj", "{53FE8A20-7577-4F9E-917B-2ED74797E8E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teste_Sobrecarga_De_Operadores", "Teste_Sobrecarga_De_Operadores\Teste_Sobrecarga_De_Operadores.csproj", "{F81BBF8E-6B68-407B-9444-12EA342F8B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{2A740DF8-F8D4-42D4-9807-3966E0C281B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{53FE8A20-7577-4F9E-917B-2ED74797E8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53FE8A20-7577-4F9E-917B-2ED74797E8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53FE8A20-7577-4F9E-917B-2ED74797E8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81BBF8E-6B68-407B-9444-12EA342F8B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81BBF8E-6B68-407B-9444-12EA342F8B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81BBF8E-6B68-407B-9444-12EA342F8B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81BBF8E-6B68-407B-9444-12EA342F8B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A740DF8-F8D4-42D4-9807-3966E0C281B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A740DF8-F8D4-42D4-9807-3966E0C281B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A740DF8-F8D4-42D4-9807-3966E0C281B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A740DF8-F8D4-42D4-9807-3966E0C281B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F84993B3-1511-4E3F-B687-BF32D2370EB2}</ProjectGuid>
+    <ProjectGuid>{2A740DF8-F8D4-42D4-9807-3966E0C281B1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ByteBank_Unidade_03</RootNamespace>
-    <AssemblyName>ByteBank_Unidade_03</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,19 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CustomException.cs" />
-    <Compile Include="Employees\AccountManeger.cs" />
-    <Compile Include="Employees\Assistant.cs" />
-    <Compile Include="Employees\Designer.cs" />
-    <Compile Include="Employees\Director.cs" />
-    <Compile Include="Employees\Employee.cs" />
-    <Compile Include="Employees\IncreaseSalary.cs" />
-    <Compile Include="Employees\IUserLogin.cs" />
-    <Compile Include="Employees\IValidateLogin.cs" />
-    <Compile Include="Employees\Sealed_Class.cs" />
-    <Compile Include="GetBonusEmployees.cs" />
-    <Compile Include="InternalSystem\GeneralSystem.cs" />
-    <Compile Include="InternalSystem\LoginUser.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
