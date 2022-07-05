@@ -8,26 +8,16 @@ namespace ByteBank_Unidade_03
     {
         static void Main(string[] args)
         {
-            int denominator = 0;
-            int numerator = 2;
             try
             {
-                try
-                {
-                    int result = numerator / denominator;
-                }
-                catch (DivideByZeroException ex)
-                {
-                    throw new DivideByZeroException(ex.Message);
-                }
-
+                Person p = new Person("111.111.111-11", 0);
             }
-            catch (DivideByZeroException ex)
+            catch (ArgumentException ex)
             {
-                Console.WriteLine(ex.ToString());
+                Console.WriteLine(ex.Message);
             }
+
             Console.ReadLine();
         }
-
     }
 }
