@@ -11,11 +11,9 @@ namespace ByteBank_Unidade_03.Employees
         {
             if (id <= 0)
             {
-                string msg = "Ocorreu uma exceção do tipo ArgumentException.";
-                ArgumentException argumentException = new ArgumentException(msg);
-                throw new ArgumentException(msg, nameof(id));
+                DontExistEployeeException argumentException = new DontExistEployeeException();
+                throw new DontExistEployeeException(id);
             }
-
             CPF = cpf;
             ID = id;
         }

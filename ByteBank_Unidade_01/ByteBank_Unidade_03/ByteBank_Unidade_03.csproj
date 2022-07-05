@@ -48,6 +48,7 @@
     <Compile Include="Employees\Assistant.cs" />
     <Compile Include="Employees\Designer.cs" />
     <Compile Include="Employees\Director.cs" />
+    <Compile Include="Employees\DontExistEployeeException.cs" />
     <Compile Include="Employees\Employee.cs" />
     <Compile Include="Employees\IncreaseSalary.cs" />
     <Compile Include="Employees\IUserLogin.cs" />

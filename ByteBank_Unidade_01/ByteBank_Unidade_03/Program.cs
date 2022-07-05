@@ -12,7 +12,7 @@ namespace ByteBank_Unidade_03
             {
                 Person p = new Person("111.111.111-11", 0);
             }
-            catch (ArgumentException ex)
+            catch (DontExistEployeeException ex)
             {
                 Console.WriteLine(ex.Message);
             }
